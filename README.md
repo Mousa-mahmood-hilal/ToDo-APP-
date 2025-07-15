@@ -34,7 +34,7 @@ A clean and stylish task management app built using **Flutter**, **Cubit (Bloc)*
 ---
 
 ## 📁 Project Structure
- <div>
+ <pre>
 lib/
 ├── core/
 │ └── constants.dart
@@ -56,7 +56,7 @@ lib/
 │ ├── custom_app_bar.dart
 │ └── gradient_text_field.dart
 main.dart
-</div>
+</pre>
 ---
 
 ## 🧑‍💻 Getting Started
