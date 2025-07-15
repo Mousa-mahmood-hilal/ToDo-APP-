@@ -16,8 +16,8 @@ A clean and stylish task management app built using **Flutter**, **Cubit (Bloc)*
 ## 📸 Screenshots
 <table>
 <tr>
-<td><img src="./images/home.jpg" width="270" height="480" style="max-width: 100%;"></td>
-<td><img src="./images/add_task.jpg" width="270" height="480" style="max-width: 100%;"></td>
+<td><img src="./images/home.jpg" width="270"  style="max-width: 100%;"></td>
+<td><img src="./images/add_task.jpg" width="270"  style="max-width: 100%;"></td>
 </tr>
 </table>
 
@@ -34,6 +34,7 @@ A clean and stylish task management app built using **Flutter**, **Cubit (Bloc)*
 ---
 
 ## 📁 Project Structure
+ <div>
 lib/
 ├── core/
 │ └── constants.dart
@@ -55,7 +56,7 @@ lib/
 │ ├── custom_app_bar.dart
 │ └── gradient_text_field.dart
 main.dart
-
+</div>
 ---
 
 ## 🧑‍💻 Getting Started
