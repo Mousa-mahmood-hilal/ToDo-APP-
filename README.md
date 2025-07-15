@@ -14,9 +14,12 @@ A clean and stylish task management app built using **Flutter**, **Cubit (Bloc)*
 ---
 
 ## 📸 Screenshots
-
-> ![alt text](images/home.jpg)
-> ![alt text](images/add_task.jpg)
+<table>
+<tr>
+<td><img src="./images/home.jpg" width="270" height="480" style="max-width: 100%;"></td>
+<td><img src="./images/add_task.jpg" width="270" height="480" style="max-width: 100%;"></td>
+</tr>
+</table>
 
 ---
 
